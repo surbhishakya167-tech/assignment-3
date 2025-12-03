@@ -28,7 +28,5 @@ Moving player pin
 Shooting bullets
 Score system
 Life system
-
 Random balloon positions
-
 Smooth screen refresh
